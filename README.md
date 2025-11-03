@@ -1,0 +1,1 @@
+Distributed System Simulation - this project demonstrates a distributed system with Master, Slave, and Client files. It involves asynchronous multi-threaded code to demonstrate how real distributed system components interact with each other.
